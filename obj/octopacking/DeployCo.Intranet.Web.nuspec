@@ -1,0 +1,69 @@
+<package>
+  <metadata>
+    <id>DeployCo.Intranet.Web</id>
+    <version>1.0.0.1</version>
+    <authors>chris</authors>
+    <owners>chris</owners>
+    <tags>OctopusDeploy</tags>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The DeployCo.Intranet.Web deployment package, built on 11/12/2017</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Content\bootstrap.css" target="Content\bootstrap.css" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Content\bootstrap.min.css" target="Content\bootstrap.min.css" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\favicon.ico" target="favicon.ico" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\fonts\glyphicons-halflings-regular.svg" target="fonts\glyphicons-halflings-regular.svg" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Global.asax" target="Global.asax" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Content\Site.css" target="Content\Site.css" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Scripts\bootstrap.js" target="Scripts\bootstrap.js" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Scripts\bootstrap.min.js" target="Scripts\bootstrap.min.js" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Scripts\jquery-1.10.2.js" target="Scripts\jquery-1.10.2.js" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Scripts\jquery-1.10.2.min.js" target="Scripts\jquery-1.10.2.min.js" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Scripts\jquery.validate.js" target="Scripts\jquery.validate.js" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Scripts\jquery.validate.min.js" target="Scripts\jquery.validate.min.js" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Scripts\jquery.validate.unobtrusive.js" target="Scripts\jquery.validate.unobtrusive.js" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Scripts\jquery.validate.unobtrusive.min.js" target="Scripts\jquery.validate.unobtrusive.min.js" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Scripts\modernizr-2.6.2.js" target="Scripts\modernizr-2.6.2.js" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Scripts\respond.js" target="Scripts\respond.js" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Scripts\respond.min.js" target="Scripts\respond.min.js" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Web.config" target="Web.config" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Web.Debug.config" target="Web.Debug.config" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Web.Release.config" target="Web.Release.config" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Views\Web.config" target="Views\Web.config" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Views\_ViewStart.cshtml" target="Views\_ViewStart.cshtml" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Views\Shared\Error.cshtml" target="Views\Shared\Error.cshtml" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Views\Shared\_Layout.cshtml" target="Views\Shared\_Layout.cshtml" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Views\Home\About.cshtml" target="Views\Home\About.cshtml" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Views\Home\Contact.cshtml" target="Views\Home\Contact.cshtml" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Views\Home\Index.cshtml" target="Views\Home\Index.cshtml" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\fonts\glyphicons-halflings-regular.woff" target="fonts\glyphicons-halflings-regular.woff" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\fonts\glyphicons-halflings-regular.ttf" target="fonts\glyphicons-halflings-regular.ttf" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\fonts\glyphicons-halflings-regular.eot" target="fonts\glyphicons-halflings-regular.eot" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\Scripts\jquery-1.10.2.min.map" target="Scripts\jquery-1.10.2.min.map" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\DeployCo.Intranet.Web.dll" target="bin\DeployCo.Intranet.Web.dll" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\DeployCo.Intranet.Web.pdb" target="bin\DeployCo.Intranet.Web.pdb" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Antlr3.Runtime.dll" target="bin\Antlr3.Runtime.dll" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Microsoft.Web.Infrastructure.dll" target="bin\Microsoft.Web.Infrastructure.dll" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Newtonsoft.Json.dll" target="bin\Newtonsoft.Json.dll" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Helpers.dll" target="bin\System.Web.Helpers.dll" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Mvc.dll" target="bin\System.Web.Mvc.dll" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Optimization.dll" target="bin\System.Web.Optimization.dll" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Razor.dll" target="bin\System.Web.Razor.dll" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Deployment.dll" target="bin\System.Web.WebPages.Deployment.dll" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.dll" target="bin\System.Web.WebPages.dll" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Razor.dll" target="bin\System.Web.WebPages.Razor.dll" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\WebGrease.dll" target="bin\WebGrease.dll" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Helpers.xml" target="bin\System.Web.Helpers.xml" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Mvc.xml" target="bin\System.Web.Mvc.xml" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Optimization.xml" target="bin\System.Web.Optimization.xml" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Razor.xml" target="bin\System.Web.Razor.xml" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.xml" target="bin\System.Web.WebPages.xml" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Deployment.xml" target="bin\System.Web.WebPages.Deployment.xml" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Razor.xml" target="bin\System.Web.WebPages.Razor.xml" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Antlr3.Runtime.pdb" target="bin\Antlr3.Runtime.pdb" />
+    <file src="C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Newtonsoft.Json.xml" target="bin\Newtonsoft.Json.xml" />
+  </files>
+</package>

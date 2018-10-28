@@ -1,0 +1,84 @@
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\DeployCo.Intranet.Web.dll.config
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\DeployCo.Intranet.Web.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\DeployCo.Intranet.Web.pdb
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Antlr3.Runtime.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Newtonsoft.Json.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Helpers.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Mvc.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Optimization.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Razor.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\WebGrease.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Helpers.xml
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Mvc.xml
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Optimization.xml
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Razor.xml
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.xml
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Antlr3.Runtime.pdb
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Newtonsoft.Json.xml
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\obj\Debug\DeployCo.Intranet.Web.csprojResolveAssemblyReference.cache
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\obj\Debug\DeployCo.Intranet.Web.dll
+C:\Users\cbehrens\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\obj\Debug\DeployCo.Intranet.Web.pdb
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\DeployCo.Intranet.Web.dll.config
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\DeployCo.Intranet.Web.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\DeployCo.Intranet.Web.pdb
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Antlr3.Runtime.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Newtonsoft.Json.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Helpers.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Mvc.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Optimization.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Razor.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\WebGrease.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Helpers.xml
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Mvc.xml
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Optimization.xml
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Razor.xml
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.xml
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Antlr3.Runtime.pdb
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Newtonsoft.Json.xml
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\obj\Debug\DeployCo.Intranet.Web.csprojResolveAssemblyReference.cache
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\obj\Debug\DeployCo.Intranet.Web.csproj.CoreCompileInputs.cache
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\obj\Debug\DeployCo.Intranet.Web.dll
+C:\Users\chris\Google Drive\PluralSight\Getting Started with Octopus Deploy\Production Sample\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\obj\Debug\DeployCo.Intranet.Web.pdb
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\DeployCo.Intranet.Web.dll
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\DeployCo.Intranet.Web.pdb
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Antlr3.Runtime.dll
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Newtonsoft.Json.dll
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Helpers.dll
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Mvc.dll
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Optimization.dll
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Razor.dll
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.dll
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Razor.dll
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\WebGrease.dll
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Helpers.xml
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Mvc.xml
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Optimization.xml
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.Razor.xml
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.xml
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\System.Web.WebPages.Razor.xml
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Antlr3.Runtime.pdb
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\bin\Newtonsoft.Json.xml
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\obj\Debug\DeployCo.Intranet.Web.dll
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\obj\Debug\DeployCo.Intranet.Web.pdb
+C:\Code\DeployCo.Intranet.Web\DeployCo.Intranet.Web\obj\Debug\DeployCo.Intranet.Web.csprojResolveAssemblyReference.cache
