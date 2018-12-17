@@ -63,6 +63,7 @@ changeBuildType(RelativeId("BuildAndPackage")) {
         }
         update<BuildStep>(2) {
             param("secure:octopus_apikey", "credentialsJSON:d13e22bf-2994-4748-a295-659a4de9c952")
+            param("octoups_tenants", "")
         }
     }
 
