@@ -1,6 +1,7 @@
 package patches.buildTypes
 
 import jetbrains.buildServer.configs.kotlin.v2018_2.*
+import jetbrains.buildServer.configs.kotlin.v2018_2.BuildStep
 import jetbrains.buildServer.configs.kotlin.v2018_2.buildSteps.MSBuildStep
 import jetbrains.buildServer.configs.kotlin.v2018_2.buildSteps.msBuild
 import jetbrains.buildServer.configs.kotlin.v2018_2.triggers.VcsTrigger
@@ -59,6 +60,9 @@ changeBuildType(RelativeId("BuildAndPackage")) {
     steps {
         update<MSBuildStep>(1) {
             param("octopus_octopack_publish_api_key", "API-NHLIKZXMD5RLKPV9GJSCRYIBO")
+        }
+        update<BuildStep>(2) {
+            param("secure:octopus_apikey", "credentialsJSON:d13e22bf-2994-4748-a295-659a4de9c952")
         }
     }
 
