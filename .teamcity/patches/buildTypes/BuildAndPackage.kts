@@ -68,7 +68,7 @@ changeBuildType(RelativeId("BuildAndPackage")) {
     }
     steps {
         update<MSBuildStep>(1) {
-            param("octopus_octopack_publish_api_key", "API-NHLIKZXMD5RLKPV9GJSCRYIBO")
+            param("octopus_octopack_publish_api_key", "API-JNF9DYMC7BUVD4TOSEZSQN1XFO")
         }
         update<BuildStep>(2) {
             enabled = false
