@@ -14,6 +14,15 @@ To apply the patch, change the buildType with id = 'BuildAndPackage'
 accordingly, and delete the patch script.
 */
 changeBuildType(RelativeId("BuildAndPackage")) {
+    params {
+        expect {
+            param("octoserver", "http://172.22.71.242")
+        }
+        update {
+            param("octoserver", "http://octo.axsdevops.io:81")
+        }
+    }
+
     expectSteps {
         step {
             name = "Restore Nuget Packages"
