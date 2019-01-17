@@ -62,8 +62,9 @@ changeBuildType(RelativeId("BuildAndPackage")) {
             param("octopus_octopack_publish_api_key", "API-NHLIKZXMD5RLKPV9GJSCRYIBO")
         }
         update<BuildStep>(2) {
-            param("secure:octopus_apikey", "credentialsJSON:d13e22bf-2994-4748-a295-659a4de9c952")
+            enabled = false
             param("octoups_tenants", "")
+            param("secure:octopus_apikey", "credentialsJSON:d13e22bf-2994-4748-a295-659a4de9c952")
         }
     }
 
