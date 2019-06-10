@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeployCo.Intranet.Web", "DeployCo.Intranet.Web\DeployCo.Intranet.Web.csproj", "{7B4A4651-B783-48EC-8F68-11D897106B89}"
 EndProject
-Global
+Global #test
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
